@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": null,
+		"player1": "bf",
+		"player2": "tordPlus2",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "OldTarget"
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "eddhousedestroyed",
+		"player1": "bf_theend",
+		"player2": "tordbot",
+		"player3": null,
+		"events": [
+			[
+				19200,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Set Camera Zoom",
+						"0.75",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				68100,
+				[
+					[
+						"Screen Shake",
+						"0.3, 0.04",
+						""
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Set Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Set Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Set Camera Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "The End"
+	}
+}

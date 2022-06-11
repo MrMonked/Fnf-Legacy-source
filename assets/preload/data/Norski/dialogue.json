@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well."
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "laughing",
+			"text": "... that was pretty good kid"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But you know"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.07,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Get out of here."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep ba"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't have time to play some stupid\\nsong's with you."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ugh, i just forgot that you cannot say\\nanything except this beep and bops"
+		}
+	]
+}

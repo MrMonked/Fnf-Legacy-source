@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "tord line",
+	"position": [
+		69,
+		97
+	],
+	"scale": 0.55,
+	"flipX": true,
+	"image": "tord"
+}

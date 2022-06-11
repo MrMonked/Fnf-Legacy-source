@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-11,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tord idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tord right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tord left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tord down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tord up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "tord laugh"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "tord laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tordold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tordold",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		39,
+		39
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

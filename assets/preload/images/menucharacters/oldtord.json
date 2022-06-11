@@ -1,0 +1,11 @@
+{
+	"idle_anim": "tord menu idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		72,
+		134
+	],
+	"scale": 0.6,
+	"flipX": false,
+	"image": "Menu_OldTord"
+}

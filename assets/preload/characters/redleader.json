@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "red leader down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "red leader left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "red leader right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "red leader up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				21
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "red leader up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "red leader idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redleader",
+	"position": [
+		10,
+		80
+	],
+	"healthicon": "redleader",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		18,
+		47
+	],
+	"camera_position": [
+		50,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

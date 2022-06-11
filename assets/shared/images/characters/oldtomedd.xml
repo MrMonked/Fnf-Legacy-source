@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldtomedd.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="oldtomedd — wystąpienie 10000" x="0" y="0" width="277" height="307" frameX="-4" frameY="-4" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10001" x="277" y="0" width="276" height="308" frameX="-3" frameY="-3" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10002" x="553" y="0" width="276" height="308" frameX="-2" frameY="-3" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10003" x="0" y="308" width="276" height="310" frameX="-1" frameY="-1" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10004" x="276" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10005" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10006" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10007" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10008" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10009" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10010" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10011" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10012" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+	<SubTexture name="oldtomedd — wystąpienie 10013" x="553" y="308" width="277" height="311" frameX="0" frameY="0" frameWidth="281" frameHeight="311"/>
+</TextureAtlas>

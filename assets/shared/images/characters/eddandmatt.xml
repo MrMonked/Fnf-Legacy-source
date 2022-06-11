@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eddandmatt.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat — wystąpienie 10000" x="0" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10001" x="766" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10002" x="1532" y="0" width="775" height="652" frameX="0" frameY="-8" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10003" x="2307" y="0" width="780" height="648" frameX="0" frameY="-12" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10004" x="3087" y="0" width="780" height="648" frameX="0" frameY="-12" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10005" x="3867" y="0" width="770" height="656" frameX="0" frameY="-4" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10006" x="4637" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10007" x="5403" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10008" x="5403" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10009" x="5403" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10010" x="6169" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10011" x="6169" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10012" x="6169" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10013" x="6935" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10014" x="6935" y="0" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10015" x="0" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10016" x="766" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10017" x="1532" y="660" width="775" height="652" frameX="0" frameY="-8" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10018" x="2307" y="660" width="780" height="648" frameX="0" frameY="-12" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10019" x="3087" y="660" width="780" height="648" frameX="0" frameY="-12" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10020" x="3867" y="660" width="770" height="656" frameX="0" frameY="-4" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10021" x="4637" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10022" x="5403" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10023" x="5403" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10024" x="5403" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10025" x="6169" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10026" x="6169" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10027" x="6169" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10028" x="6935" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+	<SubTexture name="GF Dancing Beat — wystąpienie 10029" x="6935" y="660" width="766" height="660" frameX="0" frameY="0" frameWidth="780" frameHeight="660"/>
+</TextureAtlas>

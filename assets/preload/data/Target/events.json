@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "eddhouse",
+		"player1": "bf",
+		"player2": "tordangry",
+		"player3": null,
+		"events": [
+			[
+				82285.7142857143,
+				[
+					[
+						"Play Animation",
+						"micout",
+						"angrytord"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Target"
+	}
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story_mode basic0000" x="0" y="0" width="694" height="151" frameX="0" frameY="-1" frameWidth="694" frameHeight="153"/>
+	<SubTexture name="story_mode basic0001" x="0" y="0" width="694" height="151" frameX="0" frameY="-1" frameWidth="694" frameHeight="153"/>
+	<SubTexture name="story_mode basic0002" x="694" y="0" width="694" height="153"/>
+	<SubTexture name="story_mode basic0003" x="694" y="0" width="694" height="153"/>
+	<SubTexture name="story_mode basic0004" x="694" y="0" width="694" height="153"/>
+	<SubTexture name="story_mode basic0005" x="0" y="0" width="694" height="151" frameX="0" frameY="-1" frameWidth="694" frameHeight="153"/>
+	<SubTexture name="story_mode basic0006" x="0" y="0" width="694" height="151" frameX="0" frameY="-1" frameWidth="694" frameHeight="153"/>
+	<SubTexture name="story_mode basic0007" x="0" y="0" width="694" height="151" frameX="0" frameY="-1" frameWidth="694" frameHeight="153"/>
+	<SubTexture name="story_mode white0000" x="1388" y="0" width="790" height="187" frameX="-1" frameY="-1" frameWidth="792" frameHeight="189"/>
+	<SubTexture name="story_mode white0001" x="2178" y="0" width="792" height="189"/>
+	<SubTexture name="story_mode white0002" x="2970" y="0" width="792" height="188" frameX="0" frameY="-1" frameWidth="792" frameHeight="189"/>
+</TextureAtlas>

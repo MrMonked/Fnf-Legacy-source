@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-89
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordPlus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordPlus up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				-72
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "TordPlus idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TordPlus down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordPlus right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tordPlus",
+	"position": [
+		-90,
+		0
+	],
+	"healthicon": "tordplus",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		18,
+		47
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

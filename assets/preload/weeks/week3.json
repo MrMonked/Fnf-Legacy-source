@@ -1,0 +1,61 @@
+{
+	"storyName": "inner demons",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"himura",
+		""
+	],
+	"songs": [
+		[
+			"oldparadox",
+			"tordold",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"oldtarget",
+			"tord-angryold",
+			[
+				206,
+				0,
+				0
+			]
+		],
+		[
+			"Tordello",
+			"tordsmoke",
+			[
+				180,
+				0,
+				0
+			]
+		],
+		[
+			"Friend",
+			"edd",
+			[
+				26,
+				153,
+				0
+			]
+		],
+		[
+			"Guns",
+			"redleader",
+			[
+				140,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "chachs"
+}

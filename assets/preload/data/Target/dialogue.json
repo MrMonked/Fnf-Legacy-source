@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Listen here you little shit."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": "beep?"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i come to far, so now i will destroy you\\nmotherfucker."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop!"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why do i even talking to you?"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "You are just some brat that thinks he \\nbest singer"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap bep bo beps"
+		},
+		{
+			"sound": "tord",
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ugh ..."
+		},
+		{
+			"sound": "tord",
+			"speed": 0.11,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Now you crossed the line."
+		}
+	]
+}

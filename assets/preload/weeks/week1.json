@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"norway",
+			"tord",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"norski",
+			"tord",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"target",
+			"tord-angry",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"the-end",
+			"tordbot",
+			[
+				126,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "eddhouse",
+	"difficulties": "",
+	"weekCharacters": [
+		"tord",
+		"bf",
+		"gf"
+	],
+	"storyName": "backdoor turnabout legacy",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

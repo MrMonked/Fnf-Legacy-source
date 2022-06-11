@@ -1,0 +1,102 @@
+{
+	"position": [
+		200,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.55,
+	"image": "torddialoguenormal",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "normal",
+			"loop_name": "normal"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"loop_name": "BF EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"loop_name": "BF PISSED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "BF CONFUSED LOOP",
+			"idle_name": "BF CONFUSED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "laughing",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "laughing",
+			"idle_name": "laughing"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		}
+	]
+}

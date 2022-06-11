@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tord idle"
+		},
+		{
+			"offsets": [
+				-33,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tord right"
+		},
+		{
+			"offsets": [
+				46,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tord left"
+		},
+		{
+			"offsets": [
+				22,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tord down"
+		},
+		{
+			"offsets": [
+				3,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tord up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smokingtord",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tordsmoke",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		18,
+		47
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...Ugh",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.03,
+			"portrait": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways who.. are YOU?",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.025,
+			"portrait": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "bee boo be bop",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf",
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Excuse me?",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "tord",
+			"sound": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "boo bees",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfport",
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I- Oh..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "tord",
+			"sound": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "I get what's going on.",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.035,
+			"portrait": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "And let me guess,",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.03,
+			"portrait": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "... Rap battle?",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.03,
+			"portrait": "tord"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf",
+			"sound": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's do this then.",
+			"boxState": "normal",
+			"sound": "tord",
+			"speed": 0.035,
+			"portrait": "tord"
+		},
+		{
+			"expression": "laughing",
+			"text": "ha ha !",
+			"boxState": "normal",
+			"portrait": "tord",
+			"speed": 0.05,
+			"sound": "tord"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "old times",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "eddhouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"paradox",
+			"oldtord",
+			[
+				60,
+				40,
+				20
+			]
+		],
+		[
+			"Spares",
+			"tordzomb",
+			[
+				86,
+				195,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"oldtord",
+		"tord2",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
